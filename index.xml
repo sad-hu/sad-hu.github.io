@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello friend</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on hello friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>免责声明</title>
+      <link>/disclaimer/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/disclaimer/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          免责声明免死金牌  作者，包括本人和其他作者 作者的文章必须符合在网络公开发表的规定 作者对文章负责，包括但不限于法律责任 文章中的观点，皆为作者的一家之言，未必代表客观事实  
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>/about/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          我 自称 sadhu（悲伤的胡），公司技术团队混子，愿与诸君相识、共勉！
+ email github  
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
